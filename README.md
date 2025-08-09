@@ -12,6 +12,8 @@ I'm just starting my journey into the world of programming, and I'm currently le
 
 ---
 
+Construindo isso desde 2025!
+
 Estou começando minha jornada no mundo da programação e atualmente estou estudando Python. Já estou pondo a mão na massa há algumas semanas!
 
 - 🌱 Atualmente estudando: **Python**
