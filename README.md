@@ -3,6 +3,8 @@
 🇧🇷 **Brazilian Student & Aspiring Developer**  
 🇧🇷 **Estudante brasileiro e futuro desenvolvedor**
 
+Building this since 2025!
+
 I'm just starting my journey into the world of programming, and I'm currently learning Python. I've been getting down to work for a few weeks now!
 
 - 🌱 Currently learning: **Python**
