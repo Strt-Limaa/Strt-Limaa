@@ -25,6 +25,10 @@ I'm working and studying on my very first project. Stay tuned for updates!
 
 Estou trabalhando e estudando para criar meu primeiro projeto. Fique ligado para novidades!
 
+I also intend to post here all the logic and Python program exercises I solved.
+
+Eu também pretendo postar aqui todos os exercícios de lógica e de programas do Python que eu resolvi.
+
 ---
 
 Thanks for visiting my profile! If you're also learning or have tips for beginners, let's chat!  
