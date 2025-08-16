@@ -7,7 +7,7 @@ Building this since 2025!
 
 I'm just starting my journey into the world of programming, and I'm currently learning Python. I've been getting down to work for a few weeks now!
 
-- 🌱 Currently learning: **Python**
+- 🌱 Currently learning: **Python and logic**
 - 📚 Always excited to learn and explore new things
 
 ---
@@ -16,7 +16,7 @@ Construindo isso desde 2025!
 
 Estou começando minha jornada no mundo da programação e atualmente estou estudando Python. Já estou pondo a mão na massa há algumas semanas!
 
-- 🌱 Atualmente estudando: **Python**
+- 🌱 Atualmente estudando: **Python e Lógica**
 - 📚 Estou animado para aprender e explorar coisas novas
 
 ## 🚧 Projects | Projetos
